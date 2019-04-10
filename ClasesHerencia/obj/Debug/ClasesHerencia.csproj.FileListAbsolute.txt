@@ -1,0 +1,7 @@
+C:\GitHubRepos\ClasesHerencia\ClasesHerencia\ClasesHerencia\bin\Debug\ClasesHerencia.exe.config
+C:\GitHubRepos\ClasesHerencia\ClasesHerencia\ClasesHerencia\bin\Debug\ClasesHerencia.exe
+C:\GitHubRepos\ClasesHerencia\ClasesHerencia\ClasesHerencia\bin\Debug\ClasesHerencia.pdb
+C:\GitHubRepos\ClasesHerencia\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.csprojAssemblyReference.cache
+C:\GitHubRepos\ClasesHerencia\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\ClasesHerencia\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.exe
+C:\GitHubRepos\ClasesHerencia\ClasesHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.pdb
